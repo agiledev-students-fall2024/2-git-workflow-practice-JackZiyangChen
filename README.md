@@ -17,3 +17,4 @@ I became more appreciative of microservices and how they can be used to scale to
 relevant because I have used SoundCloud as an alternative to Spotify in the past to stream music and to find new indie musicians and their relatively new works.
 This article helps explain how SoundCloud and evolved to become so successful, doing so without using overly technical language
 such that even a layman could understand the evolution of SoundCloud.
+I think this article provides overall great insights that help even entry level engineers understand microservices and SoundCloud.
