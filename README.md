@@ -1,6 +1,6 @@
 # Git Practice
 
-Article [link](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+Article [link](https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds?publication_id=817132&post_id=148395588&isFreemail=true&r=25b1pg&triedRedirect=true)
 
 ### Why I find this article interesting
 I find this article interesting because we briefly touched up on the microservices architecture during the lecture, and I find this to be a very interesting application of microservices. The use of microservices at SoundCloud at a large scale demonstrated the pros and cons of using microservices, and how it can (potentially) be beneficial for a large scale application.
