@@ -18,3 +18,6 @@ relevant because I have used SoundCloud as an alternative to Spotify in the past
 This article helps explain how SoundCloud and evolved to become so successful, doing so without using overly technical language
 such that even a layman could understand the evolution of SoundCloud.
 I think this article provides overall great insights that help even entry level engineers understand microservices and SoundCloud.
+
+### Stella Zhang - commentary on the article
+This article is interesting to me because it provides a closer look at a way of managing software architecture that I, as a student, haven't had cause to use for my own projects before. Since I want to pursue software engineering, knowing more about popular approaches to large-scale software is very helpful, and prompts me to think about it more.
